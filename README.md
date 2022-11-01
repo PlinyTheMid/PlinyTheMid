@@ -20,8 +20,6 @@ _I'm an_ **AI Developer** _at_ **Graymatics, Inc.** _Singapore._
 >🌱 [Paper on Skin Cancer Lesions detection impovements with ResNet101 TL 2020](https://www.linkedin.com/in/dannydevarapalli/overlay/1635458221345/single-media-viewer?type=LINK&profileId=ACoAACUJMdkBfFvh6zH0suCeaZwc2rn0oxsckUc&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B1PIDm3dzRUSSws%2BPKTYVyQ%3D%3D)
 > _Published by Springer Singapore._
 
-What I use: ![img](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
-
 🚀 How to reach me -> [Danny on LinkedIn](https://www.linkedin.com/in/dannydevarapalli/)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
