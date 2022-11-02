@@ -1,6 +1,6 @@
 ### Hello there 👾
 
-_I'm an_ **AI Developer** _at_ **Graymatics, Inc.** _Singapore._
+_I'm an_ **AI Developer** _at_ **Graymatics, Inc.** Singapore.
 
 > 🔭 I’m currently developing Smart City video-analytics for various usecases across all industries.
 >
@@ -22,7 +22,7 @@ _I'm an_ **AI Developer** _at_ **Graymatics, Inc.** _Singapore._
 > 
 > _Published by Springer Singapore._
 
-🚀 How to reach me -> [Danny on LinkedIn](https://www.linkedin.com/in/dannydevarapalli/)
+🚀 How to reach me -> [Danny on LinkedIn](https://www.linkedin.com/in/dannydevarapalli/) [Danny on Google Scholar](https://scholar.google.com/citations?user=xRCS-MUAAAAJ&hl=en)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
