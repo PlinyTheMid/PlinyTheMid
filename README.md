@@ -2,7 +2,7 @@
 
 _I'm an_ **AI Developer** _at_ [**Graymatics, Inc.**](https://www.graymatics.com/) Singapore.
 
-> 🔭 I’m currently developing Smart City video-analytics for various usecases across all industries.
+> 🔭 I’m currently developing AI video-analytics for various usecases across all industries.
 >
 > 🦧 I’m currently learning NLP, Audio Processing, and deployment of models on edge devices using Nvidia Triton Inference and DeepStream.
 >
