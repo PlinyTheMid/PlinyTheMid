@@ -22,7 +22,7 @@ _I'm an_ **AI Developer** _at_ [**Graymatics, Inc.**](https://www.graymatics.com
 > 
 > _Published by Springer Singapore._
 
-🚀 How to reach me -> [Danny on LinkedIn](https://www.linkedin.com/in/dannydevarapalli/) [Danny on Google Scholar](https://scholar.google.com/citations?user=xRCS-MUAAAAJ&hl=en)
+🚀 How to reach me -> [Danny on LinkedIn](https://www.linkedin.com/in/dannydevarapalli/) **|** [Danny on Google Scholar](https://scholar.google.com/citations?user=xRCS-MUAAAAJ&hl=en)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
