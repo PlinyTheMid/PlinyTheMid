@@ -1,6 +1,6 @@
 ### Hello there 👾
 
-_I'm an_ **AI Developer** _at_ **Graymatics, Inc.** Singapore.
+_I'm an_ **AI Developer** _at_ [**Graymatics, Inc.**](https://www.graymatics.com/) Singapore.
 
 > 🔭 I’m currently developing Smart City video-analytics for various usecases across all industries.
 >
