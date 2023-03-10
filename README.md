@@ -2,7 +2,7 @@
 
 _I'm an_ **AI Developer** _at_ [**Graymatics, Inc.**](https://www.graymatics.com/) Singapore.
 
-> 🔭 I’m currently developing AI video-analytics for various usecases across all industries.
+> I’m currently developing AI video-analytics for various usecases across all industries.
 >
 > 🦧 I’m currently learning NLP, Audio Processing, and deployment of models on edge devices using Nvidia Triton Inference and DeepStream.
 >
@@ -14,11 +14,11 @@ _I'm an_ **AI Developer** _at_ [**Graymatics, Inc.**](https://www.graymatics.com
 >
 > 🌋 Past Research:
 > 
-> 🌱 [Patent on Skin Cancer Lesions detection impovements with ResNet101 TL 2021](https://www.linkedin.com/in/dannydevarapalli/overlay/1635482721080/single-media-viewer?type=LINK&profileId=ACoAACUJMdkBfFvh6zH0suCeaZwc2rn0oxsckUc&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B1PIDm3dzRUSSws%2BPKTYVyQ%3D%3D)
+> [Patent on Skin Cancer Lesions detection impovements with ResNet101 TL 2021](https://www.linkedin.com/in/dannydevarapalli/overlay/1635482721080/single-media-viewer?type=LINK&profileId=ACoAACUJMdkBfFvh6zH0suCeaZwc2rn0oxsckUc&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B1PIDm3dzRUSSws%2BPKTYVyQ%3D%3D)
 >
 >_Granted by Australian Government Intellectual Property._
 >
->🌱 [Paper on Skin Cancer Lesions detection impovements with ResNet101 TL 2020](https://www.linkedin.com/in/dannydevarapalli/overlay/1635458221345/single-media-viewer?type=LINK&profileId=ACoAACUJMdkBfFvh6zH0suCeaZwc2rn0oxsckUc&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B1PIDm3dzRUSSws%2BPKTYVyQ%3D%3D)
+>[Paper on Skin Cancer Lesions detection impovements with ResNet101 TL 2020](https://www.linkedin.com/in/dannydevarapalli/overlay/1635458221345/single-media-viewer?type=LINK&profileId=ACoAACUJMdkBfFvh6zH0suCeaZwc2rn0oxsckUc&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B1PIDm3dzRUSSws%2BPKTYVyQ%3D%3D)
 > 
 > _Published by Springer Singapore._
 
