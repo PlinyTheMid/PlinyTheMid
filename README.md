@@ -5,7 +5,9 @@ _I'm an_ **AI Team Lead** _at_ [**Graymatics, Inc.**](https://www.graymatics.com
 > I develop AI video-analytics for various usecases across all industries.
 >
 > 🦧 I’m currently building a product Local GPT-RAG-Report Generation.
+> 
 > 🫵 I’m looking to collaborate on NLP research projects and also any Freelancing project to partner with.
+> 
 > 💬 Ask me about AI, Machine Learning, Computer Vision, Research Writing, Efficiently Scouting Data, and [Music](https://www.ultimate-guitar.com/u/dannydevarapalli).
 >
 > 🌋 Past Research:
