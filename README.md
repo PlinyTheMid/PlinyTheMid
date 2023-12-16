@@ -1,15 +1,11 @@
 ### Hello there 👾
 
-_I'm an_ **AI Developer** _at_ [**Graymatics, Inc.**](https://www.graymatics.com/) Singapore.
+_I'm an_ **AI Team Lead** _at_ [**Graymatics, Inc.**](https://www.graymatics.com/) Singapore.
 
-> I’m currently developing AI video-analytics for various usecases across all industries.
+> I develop AI video-analytics for various usecases across all industries.
 >
-> 🦧 I’m currently learning NLP, Audio Processing, and deployment of models on edge devices using Nvidia Triton Inference and DeepStream.
->
+> 🦧 I’m currently building a product Local GPT-RAG-Report Generation.
 > 🫵 I’m looking to collaborate on NLP research projects and also any Freelancing project to partner with.
->
-> 🪐 I'm exploring the field of AI's Applied Research, GANs.
->
 > 💬 Ask me about AI, Machine Learning, Computer Vision, Research Writing, Efficiently Scouting Data, and [Music](https://www.ultimate-guitar.com/u/dannydevarapalli).
 >
 > 🌋 Past Research:
