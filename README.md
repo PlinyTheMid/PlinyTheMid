@@ -14,7 +14,7 @@ _I'm an_ **AI Team & Tech Lead** _at_ [**Graymatics, Inc.**](https://www.graymat
 > 
 > [Patent on Skin Cancer Lesions detection impovements with ResNet101 TL 2021](https://www.linkedin.com/in/dannydevarapalli/overlay/1635482721080/single-media-viewer?type=LINK&profileId=ACoAACUJMdkBfFvh6zH0suCeaZwc2rn0oxsckUc&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B1PIDm3dzRUSSws%2BPKTYVyQ%3D%3D)
 >
->_Granted by Australian Government Intellectual Property._
+>_Granted by the Australian Government Intellectual Property._
 >
 >[Paper on Skin Cancer Lesions detection impovements with ResNet101 TL 2020](https://www.linkedin.com/in/dannydevarapalli/overlay/1635458221345/single-media-viewer?type=LINK&profileId=ACoAACUJMdkBfFvh6zH0suCeaZwc2rn0oxsckUc&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B1PIDm3dzRUSSws%2BPKTYVyQ%3D%3D)
 > 
