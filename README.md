@@ -1,6 +1,6 @@
 ### Hello there 👾
 
-_I'm an_ **AI Team and Tech Lead** _at_ [**Graymatics, Inc.**](https://www.graymatics.com/) Singapore.
+_I'm an_ **AI Team & Tech Lead** _at_ [**Graymatics, Inc.**](https://www.graymatics.com/) Singapore.
 
 > I develop AI video-analytics for various usecases across all industries.
 >
